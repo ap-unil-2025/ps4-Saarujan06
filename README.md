@@ -2,7 +2,7 @@
 
 ## Student Information
 Name: Saarujan Sivananth
-Date: 08/10/2025
+Date: 08.10.2025
 
 ## Assignment Overview
 This assignment focuses on working with Python data structures (lists and dictionaries), writing functions, using imports, and exploring basic recursion.
